@@ -1,6 +1,6 @@
 {
-  "name": "@lctech-jaser/seeyou",
-  "version": "1.0.0",
+  "name": "@lctech-jasper/seeyou",
+  "version": "1.0.1",
   "description": "test project",
   "main": "index.js",
   "scripts": {
