@@ -1,5 +1,5 @@
 {
-  "name": "@lctech-jaser/seeyou",
+  "name": "seeyou",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/lctech-jasper/seeyou/issues"
   },
-  "homepage": "https://github.com/lctech-jasper/seeyou#readme",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/lctech-jasper/seeyou#readme"
 }
