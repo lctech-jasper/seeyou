@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lctech-jasper/seeyou/issues"
   },
-  "homepage": "https://github.com/lctech-jasper/seeyou#readme"
+  "homepage": "https://github.com/lctech-jasper/seeyou#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
