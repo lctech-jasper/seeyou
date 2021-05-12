@@ -1,0 +1,19 @@
+{
+  "name": "@lctech-jaser/seeyou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lctech-jasper/seeyou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lctech-jasper/seeyou/issues"
+  },
+  "homepage": "https://github.com/lctech-jasper/seeyou#readme"
+}
