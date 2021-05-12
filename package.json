@@ -1,7 +1,7 @@
 {
   "name": "@lctech-jaser/seeyou",
   "version": "1.0.0",
-  "description": "",
+  "description": "test project",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/lctech-jasper/seeyou.git"
   },
-  "author": "",
+  "author": "jasper@lctech.com.tw",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lctech-jasper/seeyou/issues"
